@@ -1,0 +1,14 @@
+Objective:
+
+1. Automate Docker image building and pushing.
+2. Deploy the containerized application to Kubernetes.
+3. Monitor and manage Kubernetes services dynamically.
+
+Tools Used:
+
+1. Docker: Containerization platform.
+2. Docker Hub: Container registry to store images.
+3. Kubernetes: Container orchestration system.
+4. kubectl: CLI tool for Kubernetes.
+5. Python: Scripting language for automation.
+6. Kubernetes Python Client: Python SDK for Kubernetes.
