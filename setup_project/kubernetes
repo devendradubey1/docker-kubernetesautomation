@@ -1,4 +1,4 @@
-Install Minikube & kubectl:
+#Install Minikube & kubectl:
 
 1. Install Minikube for a local Kubernetes cluster.
 2. Install kubectl for Kubernetes CLI management.
@@ -12,8 +12,7 @@ sudo mv kubectl /usr/local/bin/
 curl -LO https://storage.googleapis.com/minikube/releases/latest/minikube-linux-amd64
 sudo install minikube-linux-amd64 /usr/local/bin/minikube
 
-Start Kubernetes Cluster:
+#Start Kubernetes Cluster:
 
 minikube start
 kubectl get nodes  # Verify the cluster is running
-
